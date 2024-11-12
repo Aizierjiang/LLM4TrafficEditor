@@ -1,0 +1,27 @@
+
+
+ Directory of E:\Projects\U3DProjects\TrafficEditor - Public\Assets\Prefabs
+
+Tue 12  20:02    <DIR>          .
+Tue 12  20:02    <DIR>          ..
+Wed 26  11:19           197,325 Car2BeReplaced.prefab
+Wed 26  11:19               154 Car2BeReplaced.prefab.meta
+Wed 26  11:19           185,921 CarAutononomous.prefab
+Wed 26  11:19               154 CarAutononomous.prefab.meta
+Wed 26  11:19           196,404 CarTraining4TE.prefab
+Wed 26  11:19               154 CarTraining4TE.prefab.meta
+Wed 26  11:19           101,218 CarUI4TE.prefab
+Wed 26  11:19               154 CarUI4TE.prefab.meta
+Tue 12  20:02                 0 content.txt
+Wed 26  11:19            16,456 FlexibleInteractionManager.prefab
+Wed 26  11:19               154 FlexibleInteractionManager.prefab.meta
+Wed 26  11:19        14,875,093 TrafficSystem.prefab
+Wed 26  11:19               154 TrafficSystem.prefab.meta
+Wed 26  11:19        56,448,672 UMFormalSandbox.fbx
+Wed 26  11:19            94,388 UMFormalSandbox.fbx.meta
+Wed 26  11:19             3,994 UMSandboxHolder.prefab
+Wed 26  11:19               154 UMSandboxHolder.prefab.meta
+Wed 26  11:19             6,034 UnistormUI4TE.prefab
+Wed 26  11:19               220 UnistormUI4TE.prefab.meta
+              19 File(s)     72,126,803 bytes
+               2 Dir(s)  578,591,948,800 bytes free

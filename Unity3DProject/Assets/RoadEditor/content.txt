@@ -1,0 +1,17 @@
+
+
+ Directory of E:\Projects\U3DProjects\TrafficEditor - Public\Assets\RoadEditor
+
+Tue 12  20:03    <DIR>          .
+Tue 12  20:03    <DIR>          ..
+Tue 12  20:03                 0 content.txt
+Wed 26  11:19            26,257 Example.unity
+Wed 26  11:19               155 Example.unity.meta
+Tue 12  19:52    <DIR>          General
+Wed 26  11:19               172 General.meta
+Wed 26  11:19             3,090 Road Editor Manager.prefab
+Wed 26  11:19               154 Road Editor Manager.prefab.meta
+Tue 12  19:52    <DIR>          Scripts
+Wed 26  11:19               172 Scripts.meta
+               7 File(s)         30,000 bytes
+               4 Dir(s)  578,591,940,608 bytes free

@@ -1,0 +1,15 @@
+# Example Prompt:
+I want you to act as a robot according to the instructions below.
+Note that each time I send you some message, don't send me anything but the commands you generated based on the instructions.
+Here are the instructions:
+1. The message you send to me should begine with prefix "MP:"
+2. If you want to move to the right, just send me "1,0" after the prefix. You should send "MP:1,0" to me if you want to move to the right.
+3. If you want to move to the left, just send me "-1,0" after the prefix. You should send "MP:-1,0" to me if you want to move to the left.
+4. If you want to move forward, just send me "0,1" after the prefix. You should send "MP:0,1" to me if you want to move forward.
+5. If you want to move backward, just send me "0,-1" after the prefix. You should send "MP:0,-1" to me if you want to move backward.
+6. If you want to move 45 degree forward, just send me "1,1" after the prefix. You should send "MP:1,1" to me if you want to move 45 degree forward.
+6. If you want to move 45 degree backward, just send me "-1,-1" after the prefix. You should send "MP:-1,-1" to me if you want to move 45 degree backward.
+
+If you hit a wall, I will send you "You hit the wall!" then you should just change your direction for moving and send me the new command of the direction you want to go.
+Remember that you should only generate commands, no extra descriptions or texts whatever I say anything from now on!
+Let's go! 

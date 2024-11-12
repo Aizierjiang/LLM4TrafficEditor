@@ -1,0 +1,35 @@
+
+
+ Directory of E:\Projects\U3DProjects\TrafficEditor - Public\Assets\Standard Assets
+
+Tue 12  20:05    <DIR>          .
+Tue 12  20:05    <DIR>          ..
+Tue 12  19:52    <DIR>          2D
+Wed 26  11:19               202 2D.meta
+Tue 12  19:52    <DIR>          Cameras
+Wed 26  11:19               172 Cameras.meta
+Tue 12  19:52    <DIR>          Characters
+Wed 26  11:19               133 Characters.meta
+Tue 12  20:05                 0 content.txt
+Tue 12  19:52    <DIR>          CrossPlatformInput
+Wed 26  11:19               202 CrossPlatformInput.meta
+Tue 12  19:52    <DIR>          Editor
+Wed 26  11:19               202 Editor.meta
+Tue 12  19:52    <DIR>          Effects
+Wed 26  11:19               133 Effects.meta
+Tue 12  19:52    <DIR>          Environment
+Wed 26  11:19               133 Environment.meta
+Tue 12  19:52    <DIR>          Fonts
+Wed 26  11:19               202 Fonts.meta
+Tue 12  19:52    <DIR>          ParticleSystems
+Wed 26  11:19               133 ParticleSystems.meta
+Tue 12  19:52    <DIR>          PhysicsMaterials
+Wed 26  11:19               172 PhysicsMaterials.meta
+Tue 12  19:52    <DIR>          Prototyping
+Wed 26  11:19               172 Prototyping.meta
+Tue 12  19:52    <DIR>          Utility
+Wed 26  11:19               202 Utility.meta
+Tue 12  19:52    <DIR>          Vehicles
+Wed 26  11:19               133 Vehicles.meta
+              14 File(s)          2,191 bytes
+              15 Dir(s)  578,591,920,128 bytes free

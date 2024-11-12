@@ -1,0 +1,13 @@
+
+
+ Directory of E:\Projects\U3DProjects\TrafficEditor - Public\Assets\Sounds
+
+Tue 12  20:04    <DIR>          .
+Tue 12  20:04    <DIR>          ..
+Tue 12  20:04                 0 content.txt
+Wed 26  11:19         1,920,538 Crowd.ogg
+Wed 26  11:19               458 Crowd.ogg.meta
+Wed 26  11:19             5,097 TimeWalk Audio Mixer.mixer
+Wed 26  11:19               182 TimeWalk Audio Mixer.mixer.meta
+               5 File(s)      1,926,275 bytes
+               2 Dir(s)  578,591,928,320 bytes free

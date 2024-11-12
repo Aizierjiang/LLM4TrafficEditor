@@ -1,0 +1,23 @@
+
+
+ Directory of E:\Projects\U3DProjects\TrafficEditor\Assets\PopulationSystem
+
+Tue 12  20:09    <DIR>          .
+Tue 12  20:09    <DIR>          ..
+Sun 12  13:39    <DIR>          Animations
+Wed 26  11:19               193 Animations.meta
+Tue 12  20:09                 0 content.txt
+Sun 12  13:39    <DIR>          Documentation
+Wed 26  11:19               193 Documentation.meta
+Sun 12  13:39    <DIR>          Materials
+Wed 26  11:19               193 Materials.meta
+Sun 12  13:39    <DIR>          Models
+Wed 26  11:19               193 Models.meta
+Sun 12  13:39    <DIR>          Prefabs
+Wed 26  11:19               193 Prefabs.meta
+Sun 12  13:39    <DIR>          Scenes
+Wed 26  11:19               193 Scenes.meta
+Sun 12  13:39    <DIR>          Textures
+Wed 26  11:19               193 Textures.meta
+               8 File(s)          1,351 bytes
+               9 Dir(s)  578,590,318,592 bytes free

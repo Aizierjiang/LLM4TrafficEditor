@@ -1,0 +1,13 @@
+
+
+ Directory of E:\Projects\U3DProjects\TrafficEditor - Public\Assets\UdacityAVSimulator
+
+Tue 12  20:05    <DIR>          .
+Tue 12  20:05    <DIR>          ..
+Tue 12  19:52    <DIR>          AD
+Wed 26  11:19               172 AD.meta
+Tue 12  20:05                 0 content.txt
+Tue 12  19:52    <DIR>          StandardAssets
+Wed 26  11:19               172 StandardAssets.meta
+               3 File(s)            344 bytes
+               4 Dir(s)  578,591,391,744 bytes free

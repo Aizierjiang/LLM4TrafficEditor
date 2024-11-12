@@ -1,0 +1,33 @@
+
+
+ Directory of E:\Projects\U3DProjects\TrafficEditor - Public\Assets\Scenes
+
+Tue 12  20:04    <DIR>          .
+Tue 12  20:04    <DIR>          ..
+Wed 26  11:19        15,942,215 AIModeAuto.unity
+Wed 26  11:19               184 AIModeAuto.unity.meta
+Wed 26  11:19        15,941,017 AIModeGen.unity
+Wed 26  11:19               184 AIModeGen.unity.meta
+Wed 26  11:19        15,952,616 Autonomous.unity
+Wed 26  11:19               184 Autonomous.unity.meta
+Wed 26  11:19        15,942,215 BKAIModeAuto 20230405.unity
+Wed 26  11:19               184 BKAIModeAuto 20230405.unity.meta
+Wed 26  11:19        15,948,841 BKAutonomous 20230405.unity
+Wed 26  11:19               184 BKAutonomous 20230405.unity.meta
+Wed 26  11:19        15,944,001 BKMain 20230405.unity
+Wed 26  11:19               184 BKMain 20230405.unity.meta
+Tue 12  20:04                 0 content.txt
+Wed 26  11:19            22,803 Launch.unity
+Wed 26  11:19               185 Launch.unity.meta
+Wed 26  11:19        15,944,001 Main.unity
+Wed 26  11:19               184 Main.unity.meta
+Wed 26  11:19           151,829 OldAutonomous.unity
+Wed 26  11:19               184 OldAutonomous.unity.meta
+Wed 26  11:19           143,473 OldMain-ErrPopulationTraffic.unity
+Wed 26  11:19               184 OldMain-ErrPopulationTraffic.unity.meta
+Wed 26  11:19            21,894 TempS.unity
+Wed 26  11:19               184 TempS.unity.meta
+Wed 26  11:19            13,645 TrafficSys.unity
+Wed 26  11:19               198 TrafficSys.unity.meta
+              25 File(s)    111,970,773 bytes
+               2 Dir(s)  578,591,932,416 bytes free

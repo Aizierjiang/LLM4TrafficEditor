@@ -1,0 +1,19 @@
+
+
+ Directory of E:\Projects\U3DProjects\TrafficEditor - Public\Assets\TownSystem
+
+Tue 12  20:05    <DIR>          .
+Tue 12  20:05    <DIR>          ..
+Tue 12  20:05                 0 content.txt
+Tue 12  19:52    <DIR>          DemoScene
+Wed 26  11:19               193 DemoScene.meta
+Tue 12  19:52    <DIR>          Materials
+Wed 26  11:19               193 Materials.meta
+Tue 12  19:52    <DIR>          Meshes
+Wed 26  11:19               193 Meshes.meta
+Tue 12  19:52    <DIR>          Prefabs
+Wed 26  11:19               193 Prefabs.meta
+Tue 12  19:52    <DIR>          Textures
+Wed 26  11:19               193 Textures.meta
+               6 File(s)            965 bytes
+               7 Dir(s)  578,591,391,744 bytes free

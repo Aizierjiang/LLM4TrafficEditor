@@ -1,0 +1,19 @@
+
+
+ Directory of E:\Projects\U3DProjects\TrafficEditor - Public\Assets\Plugins
+
+Tue 12  20:08    <DIR>          .
+Tue 12  20:08    <DIR>          ..
+Tue 12  20:08                 0 content.txt
+Tue 12  20:01    <DIR>          RaceLakeAssets
+Wed 26  11:19               202 RaceLakeAssets.meta
+Tue 12  20:01    <DIR>          RoadKit
+Wed 26  11:19               201 RoadKit.meta
+Tue 12  20:01    <DIR>          SimpleFileBrowser
+Wed 26  11:19               201 SimpleFileBrowser.meta
+Tue 12  20:01    <DIR>          SocketIO
+Wed 26  11:19               201 SocketIO.meta
+Tue 12  19:52    <DIR>          UnityThreading
+Wed 26  11:19               201 UnityThreading.meta
+               6 File(s)          1,006 bytes
+               7 Dir(s)  578,590,322,688 bytes free

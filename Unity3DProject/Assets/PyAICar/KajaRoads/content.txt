@@ -1,0 +1,17 @@
+
+
+ Directory of E:\Projects\U3DProjects\TrafficEditor\Assets\PyAICar\KajaRoads
+
+Tue 12  20:09    <DIR>          .
+Tue 12  20:09    <DIR>          ..
+Tue 12  20:09                 0 content.txt
+Sun 12  13:39    <DIR>          Materials
+Wed 26  11:19               193 Materials.meta
+Sun 12  13:39    <DIR>          Meshes
+Wed 26  11:19               193 Meshes.meta
+Sun 12  13:39    <DIR>          Prefabs
+Wed 26  11:19               193 Prefabs.meta
+Sun 12  13:39    <DIR>          Textures
+Wed 26  11:19               193 Textures.meta
+               5 File(s)            772 bytes
+               6 Dir(s)  578,590,318,592 bytes free

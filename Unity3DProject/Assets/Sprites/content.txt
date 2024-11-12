@@ -1,0 +1,17 @@
+
+
+ Directory of E:\Projects\U3DProjects\TrafficEditor - Public\Assets\Sprites
+
+Tue 12  20:05    <DIR>          .
+Tue 12  20:05    <DIR>          ..
+Wed 26  11:19         2,448,545 3RelationsSimpleImgV7.png
+Wed 26  11:19             1,935 3RelationsSimpleImgV7.png.meta
+Tue 12  20:05                 0 content.txt
+Wed 26  11:19         1,349,982 MetaVersePosterConceptDesignV4.jpg
+Wed 26  11:19             3,101 MetaVersePosterConceptDesignV4.jpg.meta
+Wed 26  11:19             2,027 Red.mat
+Wed 26  11:19               188 Red.mat.meta
+Wed 26  11:19           103,701 UM-TrafficAppLogo.png
+Wed 26  11:19             1,935 UM-TrafficAppLogo.png.meta
+               9 File(s)      3,911,414 bytes
+               2 Dir(s)  578,591,924,224 bytes free

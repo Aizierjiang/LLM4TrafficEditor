@@ -1,0 +1,39 @@
+
+
+ Directory of E:\Projects\U3DProjects\TrafficEditor\Assets\BusAssets
+
+Tue 12  20:07    <DIR>          .
+Tue 12  20:07    <DIR>          ..
+Sun 12  13:39    <DIR>          Bus
+Wed 26  11:19               172 Bus.meta
+Wed 26  11:19             2,648 Bus_green.prefab
+Wed 26  11:19               182 Bus_green.prefab.meta
+Wed 26  11:19             3,255 Bus_yellow.prefab
+Wed 26  11:19               182 Bus_yellow.prefab.meta
+Tue 12  20:07                 0 content.txt
+Sun 12  13:39    <DIR>          Minibus
+Wed 26  11:19               172 Minibus.meta
+Wed 26  11:19             2,633 MinibusBlack.prefab
+Wed 26  11:19               182 MinibusBlack.prefab.meta
+Wed 26  11:19             2,645 MinibusBlue.prefab
+Wed 26  11:19               182 MinibusBlue.prefab.meta
+Wed 26  11:19             2,644 MinibusGreen.prefab
+Wed 26  11:19               182 MinibusGreen.prefab.meta
+Wed 26  11:19           197,702 New Cubemap true_for_gold 1.cubemap
+Wed 26  11:19               182 New Cubemap true_for_gold 1.cubemap.meta
+Wed 26  11:19             5,445 police_car.prefab
+Wed 26  11:19               182 police_car.prefab.meta
+Sun 12  13:39    <DIR>          Sedan
+Wed 26  11:19               172 Sedan.meta
+Wed 26  11:19             2,603 Sedan.prefab
+Wed 26  11:19               182 Sedan.prefab.meta
+Wed 26  11:19             2,607 SedanCreased.prefab
+Wed 26  11:19               182 SedanCreased.prefab.meta
+Wed 26  11:19             2,600 SedanSmall.prefab
+Wed 26  11:19               182 SedanSmall.prefab.meta
+Wed 26  11:19            19,499 SpecGrayscaleGlassSF.shader
+Wed 26  11:19               204 SpecGrayscaleGlassSF.shader.meta
+Wed 26  11:19            17,025 SpecGrayscaleSF.shader
+Wed 26  11:19               204 SpecGrayscaleSF.shader.meta
+              28 File(s)        264,050 bytes
+               5 Dir(s)  578,590,330,880 bytes free
