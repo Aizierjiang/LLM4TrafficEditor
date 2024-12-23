@@ -24,8 +24,8 @@
 - [This folder](./Unity3DProject/) contains the Unity 3D project which I implemented via Unity 3D version `Unity3D 2018.4.16f1`. Note that "EasyMovieTexture" plugin is not uploaded because it's copyright, but you can download it elsewhere or directly use other related plugins to replace it.
 - [This folder](./Submission) serves as source templates I used for crafting and submitting the paper.
 - [This site](https://harzing.com/resources/publish-or-perish) contains the software I utilized for collecting and searching the desired papers.
-- [This](LLM-Enhanced_Traffic_Editor_for_Accelerated_Testing_of_Autonomous_Vehicles_under_Various_Pedestrian_Behaviors-arxiv.pdf) is the duplicate of the paper downloaded from [Arxiv](https://arxiv.org/abs/NOT_YET_UPLOADED), which is the **full version** that I recommend.
-- [This](LLM-Enhanced_Traffic_Editor_for_Accelerated_Testing_of_Autonomous_Vehicles_under_Various_Pedestrian_Behaviors.pdf) is the duplicate of the manuscript I submitted to the conference. **Due to page limitation, some content has been omitted**.
+- [This](./Submission/LLM-Enhanced_Traffic_Editor-arxiv.pdf) is the duplicate of the paper downloaded from [Arxiv](https://arxiv.org/abs/COMING_SOON), which is the **full version** that I recommend.
+- [This](./Submission/LLM-Enhanced_Traffic_Editor.pdf) is the duplicate of the manuscript I submitted to the conference. **Due to page limitation, some content has been omitted**.
 
 <br>
 
